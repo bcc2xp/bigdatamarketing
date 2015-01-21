@@ -1,7 +1,4 @@
 # 服務業的大數據應用
-bigdatamarketing
-
-
 
 ### 網頁爬蟲
 

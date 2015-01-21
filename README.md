@@ -5,11 +5,23 @@ bigdatamarketing
 
 ### 網頁爬蟲
 
-+ infolite.io
++ http://infolite.io/
 
 + https://www.kimonolabs.com/
 
 + https://import.io/
+
+### 對手動態監控
+
++ 好用連結: http://visualping.io/  ;  http://www.opensiteexplorer.org/ ; http://page2rss.com/
+
++ 當對手網頁有所變動 (http://visualping.io/) 發送SMS 訊息
+
++ 使用 http://www.opensiteexplorer.org/ 觀察對手是否有新的連結 ，接者使用http://page2rss.com/轉換為rss feed，最後使用EMAIL 或RSS傳送訊息
+
++ 使用 rss 訂閱對手的EMAIL, 將訊息收到Dropbox 或 Evernote
+
++ 訂閱google alerts, 將新訊息傳送到sms 中
 
 ### Google Analytics
 

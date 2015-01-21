@@ -37,7 +37,7 @@
 
 + 取得用戶資料
 
-++ 搜索詞等存取記錄分析（透過Google Analytics 可獲得）
+-- 搜索詞等存取記錄分析（透過Google Analytics 可獲得）
 
 ++ 用戶觀察
 

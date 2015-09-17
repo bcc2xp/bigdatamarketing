@@ -33,29 +33,11 @@
 
 + 搜索關鍵字－理解搜索關鍵字可以知道使用者在造訪網站前使用的搜索關鍵字，網站分析常見的指標之一；從搜索關鍵字可以推測使用者造訪網站的目的或動機。
 
-### 聚集人氣
+### Facebook Marketing
 
-+ 取得用戶資料
+- http://www.fanpagekarma.com/
 
--- 搜索詞等存取記錄分析（透過Google Analytics 可獲得）
+- http://likeboy.tw/
 
--- 用戶觀察
-
--- 深入訪問
-
-+ 針對目標使用者選擇合適的動作
-
---「成本」、「可取得的流量」與「成效」
-
-### 大數據要找出什麼
-
-
-+ 追蹤成效
-
-+ 單一 Call-to-action
-
-+ 找出有效的文案
-
-+ 利用限時優惠
-
+- https://github.com/thekindlyone/fbadmin
 
